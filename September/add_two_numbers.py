@@ -31,4 +31,4 @@ class Solution(object):
             if l2:
                 l2 = l2.next
 
-        return dummy_head.next    
+        return dummy_head.next 
